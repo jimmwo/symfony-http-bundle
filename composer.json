@@ -21,11 +21,6 @@
         "n7/symfony-validators-bundle": "^2.0",
         "jms/serializer": "^3.10"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
-    },
     "autoload": {
         "psr-4": {
             "N7\\SymfonyHttpBundle\\": "src"
